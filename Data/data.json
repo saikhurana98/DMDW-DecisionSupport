@@ -1,0 +1,317 @@
+{
+    "Bangkok": {
+        "url": "https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=0fed03949edb22232735e36077d1581b&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Flabel%3Dgen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB%3Bsid%3D0fed03949edb22232735e36077d1581b%3Btmpl%3Dsearchresults%3Bac_click_type%3Db%3Bac_position%3D0%3Bcheckin_month%3D4%3Bcheckin_monthday%3D19%3Bcheckin_year%3D2021%3Bcheckout_month%3D4%3Bcheckout_monthday%3D21%3Bcheckout_year%3D2021%3Bcity%3D-73635%3Bclass_interval%3D1%3Bdest_id%3D-2403010%3Bdest_type%3Dcity%3Bdtdisc%3D0%3Bfrom_sf%3D1%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Biata%3DKUL%3Binac%3D0%3Bindex_postcard%3D0%3Blabel_click%3Dundef%3Bno_rooms%3D1%3Boffset%3D0%3Bpostcard%3D0%3Braw_dest_type%3Dcity%3Broom1%3DA%252CA%3Bsb_price_type%3Dtotal%3Bsearch_selected%3D1%3Bshw_aparth%3D1%3Bslp_r_match%3D0%3Bsrc%3Dsearchresults%3Bsrc_elem%3Dsb%3Bsrpvid%3D3ce33b392e280045%3Bss%3DKuala%2520Lumpur%252C%2520Kuala%2520Lumpur%2520Federal%2520Territory%252C%2520Malaysia%3Bss_all%3D0%3Bss_raw%3DKuala%3Bssb%3Dempty%3Bsshis%3D0%3Bssne%3DSingapore%3Bssne_untouched%3DSingapore%3Btop_ufis%3D1%26%3B&ss=Bangkok%2C+Bangkok+Province%2C+Thailand&is_ski_area=&ssne=Kuala+Lumpur&ssne_untouched=Kuala+Lumpur&city=-2403010&checkin_year=2021&checkin_month=4&checkin_monthday=19&checkout_year=2021&checkout_month=4&checkout_monthday=21&group_adults=2&group_children=0&no_rooms=1&from_sf=1&ss_raw=Bang&ac_position=1&ac_langcode=en&ac_click_type=b&dest_id=-3414440&dest_type=city&iata=BKK&place_id_lat=13.755838&place_id_lon=100.505638&search_pageview_id=3ce33b392e280045&search_selected=true&search_pageview_id=3ce33b392e280045&ac_suggestion_list_length=5&ac_suggestion_theme_list_length=0",
+        "hotels": [
+            {
+                "name": "Like Sukhumvit 22",
+                "url": "https://www.booking.com/hotel/th/like-sukhumvit16.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=159121201_88724268_2_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=159121201_88724268_2_0_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=159121201_88724268_2_0_0__210000&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.0
+            },
+            {
+                "name": "Novotel Bangkok on Siam Square",
+                "url": "https://www.booking.com/hotel/th/novotelbangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=2708008_95150841_2_42_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=2&highlighted_blocks=2708008_95150841_2_42_0&hpos=2&no_rooms=1&sr_order=popularity&sr_pri_blocks=2708008_95150841_2_42_0__279890&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.3
+            },
+            {
+                "name": "Novotel Bangkok Platinum Pratunam - SHA Certified",
+                "url": "https://www.booking.com/hotel/th/novotel-bangkok-platinum.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=33792608_94419631_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=3&highlighted_blocks=33792608_94419631_2_2_0&hpos=3&no_rooms=1&sr_order=popularity&sr_pri_blocks=33792608_94419631_2_2_0__279890&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.5
+            },
+            {
+                "name": "SKYVIEW Hotel Bangkok",
+                "url": "https://www.booking.com/hotel/th/compass-skyview.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=189295122_265627962_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=4&highlighted_blocks=189295122_265627962_0_2_0&hpos=4&no_rooms=1&sr_order=popularity&sr_pri_blocks=189295122_265627962_0_2_0__299800&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "Chatrium Hotel Riverside Bangkok",
+                "url": "https://www.booking.com/hotel/th/chatrium-suites-bangkok-a-dusit-thani-hotels-partner.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=4425821_135393130_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=5&highlighted_blocks=4425821_135393130_0_2_0&hpos=5&no_rooms=1&sr_order=popularity&sr_pri_blocks=4425821_135393130_0_2_0__394588&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Millennium Hilton Bangkok",
+                "url": "https://www.booking.com/hotel/th/millennium-hilton-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=2763009_274536451_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=6&highlighted_blocks=2763009_274536451_2_2_0&hpos=6&no_rooms=1&sr_order=popularity&sr_pri_blocks=2763009_274536451_2_2_0__324852&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.4
+            },
+            {
+                "name": "InterContinental Bangkok, an IHG hotel",
+                "url": "https://www.booking.com/hotel/th/intercontinental-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=4954419_277283764_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=7&highlighted_blocks=4954419_277283764_2_2_0&hpos=7&no_rooms=1&sr_order=popularity&sr_pri_blocks=4954419_277283764_2_2_0__555074&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "Novotel Bangkok Sukhumvit 20 - SHA Certified",
+                "url": "https://www.booking.com/hotel/th/novotel-bangkok-sukhumvit-20.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=166808107_291378329_0_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=8&highlighted_blocks=166808107_291378329_0_0_0&hpos=8&no_rooms=1&sr_order=popularity&sr_pri_blocks=166808107_291378329_0_0_0__280126&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "Centre Point Sukhumvit 10",
+                "url": "https://www.booking.com/hotel/th/centrepoint-sukhumvit-soi-10.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=4252403_289778729_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=9&highlighted_blocks=4252403_289778729_2_2_0&hpos=9&no_rooms=1&sr_order=popularity&sr_pri_blocks=4252403_289778729_2_2_0__1417120&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Royal Orchid Sheraton Hotel and Towers",
+                "url": "https://www.booking.com/hotel/th/royal-orchid-sheraton-and-towers.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=32365609_246430252_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=10&highlighted_blocks=32365609_246430252_2_2_0&hpos=10&no_rooms=1&sr_order=popularity&sr_pri_blocks=32365609_246430252_2_2_0__409260&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Pathumwan Princess Hotel",
+                "url": "https://www.booking.com/hotel/th/pathumwan-princess.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=2764225_219566529_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=11&highlighted_blocks=2764225_219566529_2_2_0&hpos=11&no_rooms=1&sr_order=popularity&sr_pri_blocks=2764225_219566529_2_2_0__376640&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "Evergreen Place Siam by UHG",
+                "url": "https://www.booking.com/hotel/th/evergreen-place-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=24995409_83261808_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=12&highlighted_blocks=24995409_83261808_0_2_0&hpos=12&no_rooms=1&sr_order=popularity&sr_pri_blocks=24995409_83261808_0_2_0__158354&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.4
+            },
+            {
+                "name": "Bangkok Marriott Hotel Sukhumvit",
+                "url": "https://www.booking.com/hotel/th/bangkok-marriott-sukhumvit.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=46597119_246431447_2_10_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=13&highlighted_blocks=46597119_246431447_2_10_0&hpos=13&no_rooms=1&sr_order=popularity&sr_pri_blocks=46597119_246431447_2_10_0__288686&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "Oakwood Suites Bangkok - SHA Certified",
+                "url": "https://www.booking.com/hotel/th/oakwood-suites-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=597453208_235311038_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=14&highlighted_blocks=597453208_235311038_2_2_0&hpos=14&no_rooms=1&sr_order=popularity&sr_pri_blocks=597453208_235311038_2_2_0__388551&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Siam Kempinski Hotel Bangkok",
+                "url": "https://www.booking.com/hotel/th/siam-kempinski-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=23915501_223855764_2_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=15&highlighted_blocks=23915501_223855764_2_1_0&hpos=15&no_rooms=1&sr_order=popularity&sr_pri_blocks=23915501_223855764_2_1_0__1224080&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.2
+            },
+            {
+                "name": "Carlton Hotel Bangkok Sukhumvit",
+                "url": "https://www.booking.com/hotel/th/carlton-bangkok-sukhumvit.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=542029901_226430420_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=16&highlighted_blocks=542029901_226430420_0_2_0&hpos=16&no_rooms=1&sr_order=popularity&sr_pri_blocks=542029901_226430420_0_2_0__394293&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.3
+            },
+            {
+                "name": "The Quarter Ladprao by UHG",
+                "url": "https://www.booking.com/hotel/th/ladprao-hills.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=311336401_278753283_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=17&highlighted_blocks=311336401_278753283_0_2_0&hpos=17&no_rooms=1&sr_order=popularity&sr_pri_blocks=311336401_278753283_0_2_0__162000&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "The Quarter Silom by UHG",
+                "url": "https://www.booking.com/hotel/th/the-quarter-silom-by-uhg.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=645021601_287385738_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=18&highlighted_blocks=645021601_287385738_2_2_0&hpos=18&no_rooms=1&sr_order=popularity&sr_pri_blocks=645021601_287385738_2_2_0__137600&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "The Quarter Hualamphong by UHG",
+                "url": "https://www.booking.com/hotel/th/prime-hotel-central-station-bangkok.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=50489401_256639146_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=19&highlighted_blocks=50489401_256639146_2_2_0&hpos=19&no_rooms=1&sr_order=popularity&sr_pri_blocks=50489401_256639146_2_2_0__143947&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "lebua at State Tower (The World\u2019s First Vertical Destination)",
+                "url": "https://www.booking.com/hotel/th/lebua-at-state-tower.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=26c710b8f916c778413e042779087c57&all_sr_blocks=2722318_266496807_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-3414440&dest_type=city&group_adults=2&group_children=0&hapos=20&highlighted_blocks=2722318_266496807_0_2_0&hpos=20&no_rooms=1&sr_order=popularity&sr_pri_blocks=2722318_266496807_0_2_0__704552&srepoch=1618249346&srpvid=42cc7c80901d0059&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            }
+        ]
+    },
+    "Singapore": {
+        "url": "https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=0fed03949edb22232735e36077d1581b&sb=1&sb_lp=1&src=index&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Findex.html%3Flabel%3Dgen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB%3Bsid%3D0fed03949edb22232735e36077d1581b%3Bsb_price_type%3Dtotal%26%3B&ss=Singapore%2C+Singapore&is_ski_area=0&checkin_year=2021&checkin_month=4&checkin_monthday=19&checkout_year=2021&checkout_month=4&checkout_monthday=21&group_adults=2&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1&ss_raw=Singapore&ac_position=0&ac_langcode=en&ac_click_type=b&dest_id=-73635&dest_type=city&iata=SIN&place_id_lat=1.29045&place_id_lon=103.85204&search_pageview_id=3627369125e30115&search_selected=true",
+        "hotels": [
+            {
+                "name": "ST Signature Jalan Besar (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/st-signature-jalan-besar.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=573678613_221095573_0_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=573678613_221095573_0_0_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=573678613_221095573_0_0_0__11460&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.2
+            },
+            {
+                "name": "Ascott Orchard Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/ascott-orchard-singapore.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=4610104_95433473_2_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=2&highlighted_blocks=4610104_95433473_2_0_0&hpos=2&no_rooms=1&sr_order=popularity&sr_pri_blocks=4610104_95433473_2_0_0__35100&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Shangri-La's Rasa Sentosa Resort & Spa (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/rasa-sentosa-resort-by-the-shangri-la.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=17560111_275239808_2_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=3&highlighted_blocks=17560111_275239808_2_0_0&hpos=3&no_rooms=1&sr_order=popularity&sr_pri_blocks=17560111_275239808_2_0_0__75000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Marina Bay Sands (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/marina-bay-sands.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=24588168_266353033_2_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=4&highlighted_blocks=24588168_266353033_2_0_0&hpos=4&no_rooms=1&sr_order=popularity&sr_pri_blocks=24588168_266353033_2_0_0__85800&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "Amara Sanctuary Resort Sentosa (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/amara-sanctuary-resort-sentosa.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2512301_261626209_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=5&highlighted_blocks=2512301_261626209_0_2_0&hpos=5&no_rooms=1&sr_order=popularity&sr_pri_blocks=2512301_261626209_0_2_0__63000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 7.4
+            },
+            {
+                "name": "Capella Singapore (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/capella-singapore.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=4272524_265581001_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=6&highlighted_blocks=4272524_265581001_2_2_0&hpos=6&no_rooms=1&sr_order=popularity&sr_pri_blocks=4272524_265581001_2_2_0__194000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=1#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "Pan Pacific Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/panpacificsingapore.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2508601_95148868_0_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=7&highlighted_blocks=2508601_95148868_0_1_0&hpos=7&no_rooms=1&sr_order=popularity&sr_pri_blocks=2508601_95148868_0_1_0__68800&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=1#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "Carlton Hotel Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/carlton.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2504214_218722392_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=8&highlighted_blocks=2504214_218722392_0_2_0&hpos=8&no_rooms=1&sr_order=popularity&sr_pri_blocks=2504214_218722392_0_2_0__32500&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "PARKROYAL COLLECTION Pickering, Singapore (SG Clean,Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/parkroyal-on-pickering.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=44340208_94467230_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=9&highlighted_blocks=44340208_94467230_0_2_0&hpos=9&no_rooms=1&sr_order=popularity&sr_pri_blocks=44340208_94467230_0_2_0__40000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "W Singapore - Sentosa Cove (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/w-singapore-sentosa-cove.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=39509717_131360996_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=10&highlighted_blocks=39509717_131360996_2_2_0&hpos=10&no_rooms=1&sr_order=popularity&sr_pri_blocks=39509717_131360996_2_2_0__59800&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Shangri-La Hotel Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/shangri-la-singapore.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=4970555_189730043_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=11&highlighted_blocks=4970555_189730043_2_2_0&hpos=11&no_rooms=1&sr_order=popularity&sr_pri_blocks=4970555_189730043_2_2_0__56000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Hotel Boss (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/boss.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=160313401_88867369_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=12&highlighted_blocks=160313401_88867369_0_2_0&hpos=12&no_rooms=1&sr_order=popularity&sr_pri_blocks=160313401_88867369_0_2_0__17496&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=1#hotelTmpl",
+                "avg_rating": 7.5
+            },
+            {
+                "name": "Hotel G Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/big.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=46830411_253318775_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=13&highlighted_blocks=46830411_253318775_0_2_0&hpos=13&no_rooms=1&sr_order=popularity&sr_pri_blocks=46830411_253318775_0_2_0__22000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=1#hotelTmpl",
+                "avg_rating": 8.1
+            },
+            {
+                "name": "PARKROYAL COLLECTION Marina Bay, Singapore (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/marinamandarin.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2506752_108463731_0_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=14&highlighted_blocks=2506752_108463731_0_0_0&hpos=14&no_rooms=1&sr_order=popularity&sr_pri_blocks=2506752_108463731_0_0_0__43200&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.4
+            },
+            {
+                "name": "Resorts World Sentosa - Equarius Hotel (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/resorts-world-sentosa-equarius.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=36916559_91320728_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=15&highlighted_blocks=36916559_91320728_0_2_0&hpos=15&no_rooms=1&sr_order=popularity&sr_pri_blocks=36916559_91320728_0_2_0__38592&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.1
+            },
+            {
+                "name": "Village Hotel Bugis by Far East Hospitality (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/golden-landmark.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2510907_95148921_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=16&highlighted_blocks=2510907_95148921_0_2_0&hpos=16&no_rooms=1&sr_order=popularity&sr_pri_blocks=2510907_95148921_0_2_0__21000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 7.9
+            },
+            {
+                "name": "Pan Pacific Serviced Suites Beach Road (SG Clean, Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/pan-pacific-serviced-suites-beach-road.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=49712204_265621569_0_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=17&highlighted_blocks=49712204_265621569_0_1_0&hpos=17&no_rooms=1&sr_order=popularity&sr_pri_blocks=49712204_265621569_0_1_0__47500&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "The Ritz-Carlton, Millenia Singapore (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/the-ritz-carlton-millenia-singapore.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2515151_266092944_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=18&highlighted_blocks=2515151_266092944_0_2_0&hpos=18&no_rooms=1&sr_order=popularity&sr_pri_blocks=2515151_266092944_0_2_0__90000&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 9.2
+            },
+            {
+                "name": "Sofitel Singapore Sentosa Resort & Spa (SG Clean)",
+                "url": "https://www.booking.com/hotel/sg/the-sentosa-resort.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=44636715_94467880_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=19&highlighted_blocks=44636715_94467880_2_2_0&hpos=19&no_rooms=1&sr_order=popularity&sr_pri_blocks=44636715_94467880_2_2_0__69800&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 7.8
+            },
+            {
+                "name": "Mandarin Orchard Singapore (SG Clean / Staycation Approved)",
+                "url": "https://www.booking.com/hotel/sg/mandarin.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=118c1a53b8ebfc43cc92e5c65b788c77&all_sr_blocks=2502889_248746293_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-73635&dest_type=city&group_adults=2&group_children=0&hapos=20&highlighted_blocks=2502889_248746293_0_2_0&hpos=20&no_rooms=1&sr_order=popularity&sr_pri_blocks=2502889_248746293_0_2_0__29600&srepoch=1618249354&srpvid=4c6c7c84e161012f&ucfs=1&from=searchresults\n;highlight_room=&tpi_r=2#hotelTmpl",
+                "avg_rating": 8.4
+            }
+        ]
+    },
+    "Kuala Lumpur": {
+        "url": "https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=0fed03949edb22232735e36077d1581b&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Flabel%3Dgen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB%3Bsid%3D0fed03949edb22232735e36077d1581b%3Btmpl%3Dsearchresults%3Bac_click_type%3Db%3Bac_position%3D0%3Bcheckin_month%3D4%3Bcheckin_monthday%3D19%3Bcheckin_year%3D2021%3Bcheckout_month%3D4%3Bcheckout_monthday%3D21%3Bcheckout_year%3D2021%3Bclass_interval%3D1%3Bdest_id%3D-73635%3Bdest_type%3Dcity%3Bdtdisc%3D0%3Bfrom_sf%3D1%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Biata%3DSIN%3Binac%3D0%3Bindex_postcard%3D0%3Blabel_click%3Dundef%3Bno_rooms%3D1%3Boffset%3D0%3Bpostcard%3D0%3Braw_dest_type%3Dcity%3Broom1%3DA%252CA%3Bsb_price_type%3Dtotal%3Bsearch_selected%3D1%3Bshw_aparth%3D1%3Bslp_r_match%3D0%3Bsrc%3Dindex%3Bsrc_elem%3Dsb%3Bsrpvid%3D2c453b2013e20006%3Bss%3DSingapore%252C%2520Singapore%3Bss_all%3D0%3Bss_raw%3DSingapore%3Bssb%3Dempty%3Bsshis%3D0%3Btop_ufis%3D1%26%3B&ss=Kuala+Lumpur%2C+Kuala+Lumpur+Federal+Territory%2C+Malaysia&is_ski_area=&ssne=Singapore&ssne_untouched=Singapore&city=-73635&checkin_year=2021&checkin_month=4&checkin_monthday=19&checkout_year=2021&checkout_month=4&checkout_monthday=21&group_adults=2&group_children=0&no_rooms=1&from_sf=1&ss_raw=Kuala&ac_position=0&ac_langcode=en&ac_click_type=b&dest_id=-2403010&dest_type=city&iata=KUL&place_id_lat=3.154051&place_id_lon=101.707714&search_pageview_id=2c453b2013e20006&search_selected=true&search_pageview_id=2c453b2013e20006&ac_suggestion_list_length=5&ac_suggestion_theme_list_length=0",
+        "hotels": [
+            {
+                "name": "Sky suites @KLCC by Cobnb",
+                "url": "https://www.booking.com/hotel/my/sky-suites-klcc-by-cobnb.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=661867001_270856167_6_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=1&highlighted_blocks=661867001_270856167_6_0_0&hpos=1&no_rooms=1&sr_order=popularity&sr_pri_blocks=661867001_270856167_6_0_0__28750&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.5
+            },
+            {
+                "name": "Mandarin Oriental, Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/mandarin-oriental-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2577001_236062857_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=2&highlighted_blocks=2577001_236062857_2_2_0&hpos=2&no_rooms=1&sr_order=popularity&sr_pri_blocks=2577001_236062857_2_2_0__83000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Grand Hyatt Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/grand-hyatt-kuala-kumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=41083622_287746889_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=3&highlighted_blocks=41083622_287746889_2_2_0&hpos=3&no_rooms=1&sr_order=popularity&sr_pri_blocks=41083622_287746889_2_2_0__85000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Traders Hotel Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/traders-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=17580211_189748272_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=4&highlighted_blocks=17580211_189748272_2_2_0&hpos=4&no_rooms=1&sr_order=popularity&sr_pri_blocks=17580211_189748272_2_2_0__48048&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "Somerset Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/somerset-ampang-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=25752205_298689805_0_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=5&highlighted_blocks=25752205_298689805_0_1_0&hpos=5&no_rooms=1&sr_order=popularity&sr_pri_blocks=25752205_298689805_0_1_0__44000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.7
+            },
+            {
+                "name": "The RuMa Hotel and Residences",
+                "url": "https://www.booking.com/hotel/my/the-ruma-and-residences.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=306356202_136810481_0_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=6&highlighted_blocks=306356202_136810481_0_1_0&hpos=6&no_rooms=1&sr_order=popularity&sr_pri_blocks=306356202_136810481_0_1_0__114928&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.5
+            },
+            {
+                "name": "Pullman Kuala Lumpur City Centre Hotel & Residences",
+                "url": "https://www.booking.com/hotel/my/prince-residence-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2576915_107271402_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=7&highlighted_blocks=2576915_107271402_2_2_0&hpos=7&no_rooms=1&sr_order=popularity&sr_pri_blocks=2576915_107271402_2_2_0__59800&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "DoubleTree By Hilton Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/doubletree-by-hilton-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=24850002_298459181_2_42_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=8&highlighted_blocks=24850002_298459181_2_42_0&hpos=8&no_rooms=1&sr_order=popularity&sr_pri_blocks=24850002_298459181_2_42_0__37600&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.3
+            },
+            {
+                "name": "JW Marriott Hotel, Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/jw-marriott-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2571022_95149425_0_1_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=9&highlighted_blocks=2571022_95149425_0_1_0&hpos=9&no_rooms=1&sr_order=popularity&sr_pri_blocks=2571022_95149425_0_1_0__63600&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.9
+            },
+            {
+                "name": "THE FACE Suites",
+                "url": "https://www.booking.com/hotel/my/the-face-suites.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=163996501_89326884_2_0_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=10&highlighted_blocks=163996501_89326884_2_0_0&hpos=10&no_rooms=1&sr_order=popularity&sr_pri_blocks=163996501_89326884_2_0_0__43560&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "Komune Living",
+                "url": "https://www.booking.com/hotel/my/komune-living.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=540896802_225966929_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=11&highlighted_blocks=540896802_225966929_0_2_0&hpos=11&no_rooms=1&sr_order=popularity&sr_pri_blocks=540896802_225966929_0_2_0__21120&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.2
+            },
+            {
+                "name": "Hilton Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/hilton-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2579806_298459168_2_42_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=12&highlighted_blocks=2579806_298459168_2_42_0&hpos=12&no_rooms=1&sr_order=popularity&sr_pri_blocks=2579806_298459168_2_42_0__43800&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "Dorsett Hartamas Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/dorsett-hartamas-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=335557601_261137723_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=13&highlighted_blocks=335557601_261137723_0_2_0&hpos=13&no_rooms=1&sr_order=popularity&sr_pri_blocks=335557601_261137723_0_2_0__21050&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 7.9
+            },
+            {
+                "name": "Hilton Garden Inn Kuala Lumpur - South",
+                "url": "https://www.booking.com/hotel/my/hilton-garden-inn-kl-jalan-tunku.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=339577104_298459180_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=14&highlighted_blocks=339577104_298459180_2_2_0&hpos=14&no_rooms=1&sr_order=popularity&sr_pri_blocks=339577104_298459180_2_2_0__19636&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.2
+            },
+            {
+                "name": "Dorsett Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/dorsett-regency-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2568113_278055036_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=15&highlighted_blocks=2568113_278055036_0_2_0&hpos=15&no_rooms=1&sr_order=popularity&sr_pri_blocks=2568113_278055036_0_2_0__27491&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.0
+            },
+            {
+                "name": "Le M\u00e9ridien Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/le-meridien-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=25019807_274564753_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=16&highlighted_blocks=25019807_274564753_0_2_0&hpos=16&no_rooms=1&sr_order=popularity&sr_pri_blocks=25019807_274564753_0_2_0__39000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.1
+            },
+            {
+                "name": "Shangri-La Hotel Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/shangri-la-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=17580114_214600317_2_42_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=17&highlighted_blocks=17580114_214600317_2_42_0&hpos=17&no_rooms=1&sr_order=popularity&sr_pri_blocks=17580114_214600317_2_42_0__76000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 9.0
+            },
+            {
+                "name": "InterContinental Kuala Lumpur, an IHG hotel",
+                "url": "https://www.booking.com/hotel/my/intercontinental-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2568713_277281652_2_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=18&highlighted_blocks=2568713_277281652_2_2_0&hpos=18&no_rooms=1&sr_order=popularity&sr_pri_blocks=2568713_277281652_2_2_0__54600&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.8
+            },
+            {
+                "name": "VE Hotel & Residence",
+                "url": "https://www.booking.com/hotel/my/ve-amp-residence.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=174737509_247589185_0_2_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=19&highlighted_blocks=174737509_247589185_0_2_0&hpos=19&no_rooms=1&sr_order=popularity&sr_pri_blocks=174737509_247589185_0_2_0__23232&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.6
+            },
+            {
+                "name": "The Ritz-Carlton, Kuala Lumpur",
+                "url": "https://www.booking.com/hotel/my/ritz-carlton-kuala-lumpur.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4AqL1z4MGwAIB0gIkOWNiN2U0NmUtZTU4NC00NWJhLTljYmMtZDNiMTM0MjFmYmM02AIF4AIB&sid=e138985fc89d84e1857839f6e1cc5bbe&all_sr_blocks=2570901_246418049_2_17_0&checkin=2021-04-19&checkout=2021-04-21&dest_id=-2403010&dest_type=city&group_adults=2&group_children=0&hapos=20&highlighted_blocks=2570901_246418049_2_17_0&hpos=20&no_rooms=1&sr_order=popularity&sr_pri_blocks=2570901_246418049_2_17_0__110000&srepoch=1618249363&srpvid=7ae57c89636c016b&ucfs=1&from=searchresults\n;highlight_room=#hotelTmpl",
+                "avg_rating": 8.7
+            }
+        ]
+    }
+}
