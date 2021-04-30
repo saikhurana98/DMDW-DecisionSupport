@@ -2,3 +2,5 @@ selenium
 bs4
 requests
 html_parser
+fake_headers
+lxml
