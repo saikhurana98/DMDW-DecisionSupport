@@ -1,0 +1,2001 @@
+id,city,hotel_name,hotel_rating,comment,comment_rating
+1,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+2,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+3,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+4,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+5,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+6,"Bangkok","Millennium Hilton Bangkok",8.4,"ทุกอย่างดีหมด สมกับเป็นโรงแรมหรู แต่ขอติที่จอดรถใต้ดินค่อนข้างมืด อับ และไม่ค่อยสะอาด และมีการปิดปรับปรุงบางส่วนของสระว่",9.0
+7,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+8,"Bangkok","Millennium Hilton Bangkok",8.4,"Great location",9.0
+9,"Bangkok","Millennium Hilton Bangkok",8.4,"Good",7.0
+10,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+11,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+12,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+13,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+14,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+15,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+16,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+17,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+18,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+19,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+20,"Bangkok","Millennium Hilton Bangkok",8.4,"All g",10
+21,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+22,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+23,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+24,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+25,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+26,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+27,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+28,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+29,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+30,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+31,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+32,"Bangkok","Millennium Hilton Bangkok",8.4,"โดยรวมประทับใจ พึงพอใจกับสถานที่และการให้บริการ แนะนำให้ลองมาใช้บริการ",9.0
+33,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+34,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+35,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+36,"Bangkok","Millennium Hilton Bangkok",8.4,"Good service",10
+37,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+38,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+39,"Bangkok","Millennium Hilton Bangkok",8.4,"Comfortable room with nice river view.",9.0
+40,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+41,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+42,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+43,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+44,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+45,"Bangkok","Millennium Hilton Bangkok",8.4,"ห้องพัก สะดวกสบาย  สะอาดตา และ รักษาห้องให้ดูเหมือนเป็นห้องใหม่ไว้ได้ แม้ว่าในสถานการณ์ที่ยากเช่นนี้",10
+46,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+47,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+48,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+49,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+50,"Bangkok","Millennium Hilton Bangkok",8.4,"思い出に残るロマン",9.0
+51,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+52,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+53,"Bangkok","Millennium Hilton Bangkok",8.4,"Идеальная поездка",10
+54,"Bangkok","Millennium Hilton Bangkok",8.4,"Disappointing",4.0
+55,"Bangkok","Millennium Hilton Bangkok",8.4,"ภาพรวมที่พักโดยรวมถือว่าดีมาก",9.0
+56,"Bangkok","Millennium Hilton Bangkok",8.4,"พักห้อง1517ห้องสวยสะอาด รร.ใกล้ไอคอนสยาม ใกล้ท่าเรือและตลาดคลองสาน",8.0
+57,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+58,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+59,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+60,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+61,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+62,"Bangkok","Millennium Hilton Bangkok",8.4,"Azma",10
+63,"Bangkok","Millennium Hilton Bangkok",8.4,"I love the swimming pool",9.0
+64,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+65,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+66,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+67,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+68,"Bangkok","Millennium Hilton Bangkok",8.4,"Good",7.0
+69,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+70,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+71,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+72,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+73,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+74,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+75,"Bangkok","Millennium Hilton Bangkok",8.4,"Frühstück war am Sonntag perfekt! Leider haben am Montagmorgen,Obstsalat und gebratener Reis mit Hähnchen gefehlt. Das",8.0
+76,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+77,"Bangkok","Millennium Hilton Bangkok",8.4,"Good",7.0
+78,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+79,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+80,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+81,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+82,"Bangkok","Millennium Hilton Bangkok",8.4,"Good",7.0
+83,"Bangkok","Millennium Hilton Bangkok",8.4,"舒适，性价比高",10
+84,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+85,"Bangkok","Millennium Hilton Bangkok",8.4,"Nice view",9.0
+86,"Bangkok","Millennium Hilton Bangkok",8.4,"Great location,staff and bed. Poor bathroom.",5.0
+87,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+88,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+89,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+90,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+91,"Bangkok","Millennium Hilton Bangkok",8.4,"ไม่ชอบ",4.0
+92,"Bangkok","Millennium Hilton Bangkok",8.4,"Pleasant",6.0
+93,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+94,"Bangkok","Millennium Hilton Bangkok",8.4,"Passable",5.0
+95,"Bangkok","Millennium Hilton Bangkok",8.4,"Это не Hilton...",1.0
+96,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+97,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+98,"Bangkok","Millennium Hilton Bangkok",8.4,"Exceptional",10
+99,"Bangkok","Millennium Hilton Bangkok",8.4,"Very good",8.0
+100,"Bangkok","Millennium Hilton Bangkok",8.4,"Superb",9.0
+101,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+102,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+103,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+104,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+105,"Bangkok","Centre Point Sukhumvit 10",8.6,"เดี๋ยวจะกลับมาพักอีกนะคะ",10
+106,"Bangkok","Centre Point Sukhumvit 10",8.6,"Старый отельчик",6.0
+107,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+108,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+109,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+110,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+111,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+112,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+113,"Bangkok","Centre Point Sukhumvit 10",8.6,"Ubicacion perfecta",9.0
+114,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+115,"Bangkok","Centre Point Sukhumvit 10",8.6,"Good",7.0
+116,"Bangkok","Centre Point Sukhumvit 10",8.6,"Satisfied to the point that I will be returning for a longer stay with  my family",9.0
+117,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+118,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+119,"Bangkok","Centre Point Sukhumvit 10",8.6,"ทุกอย่างสำร็จลุล่วงด้วยดี เพราะ ห้องพักสบาย สิ่งอำนวยความสะดวกครบครัน และพนักงานที่น่ารัก ความปลอดภั",10
+120,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+121,"Bangkok","Centre Point Sukhumvit 10",8.6,"Schoenes Hotel an ausgezeichneter Lage.",9.0
+122,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+123,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+124,"Bangkok","Centre Point Sukhumvit 10",8.6,"ดีมาก",10
+125,"Bangkok","Centre Point Sukhumvit 10",8.6,"Passable",5.0
+126,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+127,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+128,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+129,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+130,"Bangkok","Centre Point Sukhumvit 10",8.6,"Over all it was a good place for family or even alone. Close to shopping malls and Sky train",9.0
+131,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+132,"Bangkok","Centre Point Sukhumvit 10",8.6,"Staff service is excellent",6.0
+133,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+134,"Bangkok","Centre Point Sukhumvit 10",8.6,"코로나 19로 인해 조식 부페 없습니다. 단품으로 주문 받아 제공",9.0
+135,"Bangkok","Centre Point Sukhumvit 10",8.6,"Pleasant",6.0
+136,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+137,"Bangkok","Centre Point Sukhumvit 10",8.6,"今後も使います。",8.0
+138,"Bangkok","Centre Point Sukhumvit 10",8.6,"Our stay was as expected and enjoyable. I must commend receptionist Ms Alice on evening duty on 10/3",8.0
+139,"Bangkok","Centre Point Sukhumvit 10",8.6,"They know how to make your stay uncomfortable",1.0
+140,"Bangkok","Centre Point Sukhumvit 10",8.6,"Slighty dirty and old but good stay and free upgrade",7.0
+141,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+142,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+143,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+144,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+145,"Bangkok","Centre Point Sukhumvit 10",8.6,"excellent resort",9.0
+146,"Bangkok","Centre Point Sukhumvit 10",8.6,"Absolutely great place to stay in Bangkok,highly recommended",10
+147,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+148,"Bangkok","Centre Point Sukhumvit 10",8.6,"Best place to stay in Bangkok",10
+149,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+150,"Bangkok","Centre Point Sukhumvit 10",8.6,"Good",7.0
+151,"Bangkok","Centre Point Sukhumvit 10",8.6,"Good",7.0
+152,"Bangkok","Centre Point Sukhumvit 10",8.6,"An excellent property to stay in the heart of Bangkok",9.0
+153,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+154,"Bangkok","Centre Point Sukhumvit 10",8.6,"My Valentine’s Day stay!❤️",10
+155,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+156,"Bangkok","Centre Point Sukhumvit 10",8.6,"Great value hotel",10
+157,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+158,"Bangkok","Centre Point Sukhumvit 10",8.6,"A bit dated but good staff and good enough overall. Good value for money at this time.",7.0
+159,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+160,"Bangkok","Centre Point Sukhumvit 10",8.6,"Good",7.0
+161,"Bangkok","Centre Point Sukhumvit 10",8.6,"Great location,easy to book,Short and sweet (1 x night only) Thank you..",7.0
+162,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+163,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+164,"Bangkok","Centre Point Sukhumvit 10",8.6,"An excellent property to stay in the heart of Bangkok",9.0
+165,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+166,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+167,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+168,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+169,"Bangkok","Centre Point Sukhumvit 10",8.6,"Bra för familjen",10
+170,"Bangkok","Centre Point Sukhumvit 10",8.6,"Everything was great,I enjoyed staying here,hope to go there soon.",9.0
+171,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+172,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+173,"Bangkok","Centre Point Sukhumvit 10",8.6,"Great place!",10
+174,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+175,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+176,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+177,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+178,"Bangkok","Centre Point Sukhumvit 10",8.6,"Una settimana di relax.",10
+179,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+180,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+181,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+182,"Bangkok","Centre Point Sukhumvit 10",8.6,"Pleasant",6.0
+183,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+184,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+185,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+186,"Bangkok","Centre Point Sukhumvit 10",8.6,"再度泊まりたい気持ちになりました。",8.0
+187,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+188,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+189,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+190,"Bangkok","Centre Point Sukhumvit 10",8.6,"Overall happy but am looking to book again shortly and do not have membership number. I would prefer",7.0
+191,"Bangkok","Centre Point Sukhumvit 10",8.6,"พักผ่อ",10
+192,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+193,"Bangkok","Centre Point Sukhumvit 10",8.6,"Good",7.0
+194,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+195,"Bangkok","Centre Point Sukhumvit 10",8.6,"สุดยอด",10
+196,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+197,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+198,"Bangkok","Centre Point Sukhumvit 10",8.6,"Very good",8.0
+199,"Bangkok","Centre Point Sukhumvit 10",8.6,"Superb",9.0
+200,"Bangkok","Centre Point Sukhumvit 10",8.6,"Exceptional",10
+201,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"チャオプラヤ川沿いの素敵なホテル",10
+202,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+203,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+204,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"ชิลๆในวิวแม่น้ำและไอคอนสยาม",8.0
+205,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"快適なバンコクの隠れ家",8.0
+206,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"เริ่ด",10
+207,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+208,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Great!!!",8.0
+209,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+210,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+211,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+212,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Pleasant",6.0
+213,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+214,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"ห้องพักดี วิวสวย",10
+215,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+216,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+217,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+218,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+219,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+220,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+221,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+222,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Passable",5.0
+223,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+224,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Sehr schöner Tag im Sheraton",10
+225,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+226,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+227,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+228,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+229,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+230,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+231,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+232,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+233,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+234,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+235,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Pleasant",6.0
+236,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Great promo",10
+237,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+238,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+239,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+240,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"地理位置特别好，服务特别好",9.0
+241,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+242,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Alles Gute",10
+243,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"良いホテルです",9.0
+244,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+245,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+246,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+247,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+248,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+249,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+250,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"หมอนนุ่มมาก หลับสบาย",9.0
+251,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",10
+252,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+253,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Staffs are good service mind set,room is good and clean. Nice location for riversides view hotel.",8.0
+254,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+255,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+256,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"รวมๆแล้ว เต็ม 10 ให้ 9",9.0
+257,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+258,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+259,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+260,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+261,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"ประทับใจ",8.0
+262,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Pleasant",6.0
+263,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+264,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+265,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"##วิวสวย ห้องสะอาด บริการดีเยี่ยม ##",10
+266,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+267,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Poor",3.0
+268,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+269,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Pleasant",6.0
+270,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+271,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Brilliant hotel",10
+272,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+273,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+274,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+275,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+276,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Worth it for the river views",8.3
+277,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+278,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+279,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+280,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+281,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+282,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+283,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+284,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good services",10
+285,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+286,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Fabulous",8.0
+287,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Superb",9.0
+288,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Good",7.0
+289,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+290,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+291,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Quick stop off as wife wanted a bath",8.0
+292,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Pleasant",6.0
+293,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+294,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+295,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+296,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+297,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+298,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+299,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Exceptional",10
+300,"Bangkok","Royal Orchid Sheraton Hotel and Towers",8.6,"Very good",8.0
+301,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+302,"Bangkok","Pathumwan Princess",8.9,"Perfect",10
+303,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+304,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+305,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+306,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+307,"Bangkok","Pathumwan Princess",8.9,"เยี่ยมมาก",9.0
+308,"Bangkok","Pathumwan Princess",8.9,"Hotel needs to be resuscitated but the Horizon Suite is still wonderful on its own",8.0
+309,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+310,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+311,"Bangkok","Pathumwan Princess",8.9,"Good",7.0
+312,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+313,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+314,"Bangkok","Pathumwan Princess",8.9,"Fantastic experience",10
+315,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+316,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+317,"Bangkok","Pathumwan Princess",8.9,"Great stay!",9.0
+318,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+319,"Bangkok","Pathumwan Princess",8.9,"เยี่ยม",9.0
+320,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+321,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+322,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+323,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+324,"Bangkok","Pathumwan Princess",8.9,"Excellent hotel in the central shopping district attached to the famous MBK department store",10
+325,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+326,"Bangkok","Pathumwan Princess",8.9,"Fantastic stay",10
+327,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+328,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+329,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+330,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+331,"Bangkok","Pathumwan Princess",8.9,"Very nice stay as always,I've stayed there before x",10
+332,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+333,"Bangkok","Pathumwan Princess",8.9,"The hotel is very close to Siam,Siam Paragon and enjoy for shopping as the location is very good.",8.0
+334,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+335,"Bangkok","Pathumwan Princess",8.9,"Good",7.0
+336,"Bangkok","Pathumwan Princess",8.9,"การต้อนรับ เช็คอินทร์ ยังแตกต่างกัน มาตรฐาน น้ำเสียง ท่าที ของ พนักงาน",7.0
+337,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+338,"Bangkok","Pathumwan Princess",8.9,"One of the top 3 hôtel I did in the World",10
+339,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+340,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+341,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+342,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+343,"Bangkok","Pathumwan Princess",8.9,"Great location with friendly staff!",9.0
+344,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+345,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+346,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+347,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+348,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+349,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+350,"Bangkok","Pathumwan Princess",8.9,"Passable",5.0
+351,"Bangkok","Pathumwan Princess",8.9,"Guter Aufenthalt in schwierigen Zeiten",8.0
+352,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+353,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+354,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+355,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+356,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+357,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+358,"Bangkok","Pathumwan Princess",8.9,"Passable",5.0
+359,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+360,"Bangkok","Pathumwan Princess",8.9,"Exceptional",9.6
+361,"Bangkok","Pathumwan Princess",8.9,"Excellente établissent",9.0
+362,"Bangkok","Pathumwan Princess",8.9,"Great location",10
+363,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+364,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+365,"Bangkok","Pathumwan Princess",8.9,"Definitely would stay at this hotel again. Nearest Sky Train station is National Stadium,easy to wa",8.0
+366,"Bangkok","Pathumwan Princess",8.9,"Very good",8.3
+367,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+368,"Bangkok","Pathumwan Princess",8.9,"Exceptional",9.6
+369,"Bangkok","Pathumwan Princess",8.9,"Super bra",10
+370,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+371,"Bangkok","Pathumwan Princess",8.9,"Good",7.5
+372,"Bangkok","Pathumwan Princess",8.9,"Un agréable séjour dans cet hotel au calme et qui donne directement sur le centre commercial MBK.",10
+373,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+374,"Bangkok","Pathumwan Princess",8.9,"Ok ma non ritornerò!",8.0
+375,"Bangkok","Pathumwan Princess",8.9,"Exceptional",9.6
+376,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+377,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+378,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+379,"Bangkok","Pathumwan Princess",8.9,"Good",7.1
+380,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+381,"Bangkok","Pathumwan Princess",8.9,"Passable",5.0
+382,"Bangkok","Pathumwan Princess",8.9,"Bra läge,stort poolområde.",8.0
+383,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+384,"Bangkok","Pathumwan Princess",8.9,"Very good",8.0
+385,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+386,"Bangkok","Pathumwan Princess",8.9,"Good",7.9
+387,"Bangkok","Pathumwan Princess",8.9,"The most convenient hotel to stay before a long haul departure",9.6
+388,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+389,"Bangkok","Pathumwan Princess",8.9,"Super zentral,Personal wie erwartet sehr freundlich und hilfsbereit",9.0
+390,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+391,"Bangkok","Pathumwan Princess",8.9,"Fantastiskt fint boende mitt i shoppingstråket",10
+392,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+393,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+394,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+395,"Bangkok","Pathumwan Princess",8.9,"Hotel ovanpå MBK shopping",9.0
+396,"Bangkok","Pathumwan Princess",8.9,"Mikä sijainti!",9.6
+397,"Bangkok","Pathumwan Princess",8.9,"Exceptional",10
+398,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+399,"Bangkok","Pathumwan Princess",8.9,"Superbra",9.0
+400,"Bangkok","Pathumwan Princess",8.9,"Superb",9.0
+401,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional staff was perfect",10
+402,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"stress free and comfortable",8.0
+403,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Good",7.0
+404,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Passable",5.0
+405,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+406,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+407,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"I'll be back but keep working harder Marriott",8.0
+408,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+409,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"I just dont like connecting room",8.0
+410,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Disappointed You dont receive Bonvoy reward pijnhts if u book thru other companies.....  that was on",8.0
+411,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+412,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Great service",10
+413,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"One night stay",8.0
+414,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+415,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+416,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Excellent",10
+417,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Passable",5.0
+418,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+419,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+420,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+421,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Pleasant",6.0
+422,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+423,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Zentral",9.0
+424,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+425,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+426,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+427,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+428,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"ห้องพักสะอาด พนักงานบริการดีพูดจาไพเราะมากๆค่ะ",10
+429,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+430,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+431,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+432,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+433,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+434,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.3
+435,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Beau,propre,personnel au top,roof top incroyablement !!",9.0
+436,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"would recommend",8.0
+437,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+438,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+439,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"I’ll try one more time.",1.0
+440,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Poor",3.0
+441,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+442,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+443,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+444,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+445,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+446,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+447,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+448,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+449,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"頂樓的酒吧不可錯過",9.0
+450,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+451,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+452,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+453,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+454,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+455,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+456,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+457,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"バスタブにあるシャワーをどうすれば使えるかが不明。シャワーブースへのガラス扉が外開きで扉の外に敷いてあるバスマットが扉を開く際ズレてしまい、濡れた足で石の床を歩くことになり危険を感じる。",8.0
+458,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+459,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+460,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+461,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+462,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+463,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+464,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+465,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+466,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+467,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+468,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+469,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+470,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+471,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+472,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Good",7.0
+473,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+474,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+475,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+476,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+477,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+478,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+479,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+480,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+481,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"It was such a great time.",10
+482,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+483,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+484,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+485,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+486,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+487,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+488,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+489,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+490,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+491,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+492,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+493,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Very good",8.0
+494,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Good",7.0
+495,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Good",7.0
+496,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+497,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+498,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Exceptional",10
+499,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+500,"Bangkok","Bangkok Marriott Hotel Sukhumvi",8.9,"Superb",9.0
+501,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+502,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+503,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"พนักงานน่ารักมาก บริการดีมากๆ",10
+504,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Amazing place to stay in Bangkok",10
+505,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+506,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+507,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+508,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+509,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Perfekter Aufenthalt in Bangkok",10
+510,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"ยอดเยี่ยม",10
+511,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+512,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+513,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"The first impression was started since i called and ask for help before arrived the facility.",9.0
+514,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+515,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"I never wanted to leave 👌",10
+516,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+517,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+518,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+519,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+520,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+521,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+522,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"また利用したいです。",10
+523,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"A superb customer-orientated 5* Hotel",10
+524,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+525,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Excellent services",9.0
+526,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+527,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+528,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+529,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+530,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Unforgettable time",10
+531,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+532,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+533,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+534,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+535,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+536,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+537,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+538,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Лучшая линейка отелей !",10
+539,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+540,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+541,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Piece of heavan in the big city.",10
+542,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+543,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"癒し",10
+544,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+545,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"5 star hotel",10
+546,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+547,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Прекрасно и вкусно",10
+548,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+549,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+550,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Perfect location",9.0
+551,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"快適に対応してもらいました",10
+552,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Good",7.0
+553,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+554,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+555,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+556,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+557,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+558,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+559,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"HighClass Hotel Erlebnis.",9.0
+560,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+561,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+562,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+563,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",9.6
+564,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Good",7.5
+565,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+566,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+567,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Perfect getaway for any reason at all.... Don't make excuses not to go!!",10
+568,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+569,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+570,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+571,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Perfekter Aufenthalt mit Stil &amp; Niveau!",10
+572,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+573,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+574,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+575,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+576,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",9.6
+577,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+578,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Very good",8.0
+579,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Good",7.0
+580,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",9.6
+581,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Good",7.9
+582,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",9.6
+583,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+584,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Satisfied",8.0
+585,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+586,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+587,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+588,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.2
+589,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",9.6
+590,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+591,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+592,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Excellent location.",8.8
+593,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"ممتازة",9.0
+594,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Великолепно",9.6
+595,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Superb",9.0
+596,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+597,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"מלון מעולה",10
+598,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+599,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Exceptional",10
+600,"Bangkok","Siam Kempinski Hotel Bangkok",9.2,"Spa property",9.6
+601,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Location is good.",8.0
+602,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+603,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+604,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+605,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+606,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+607,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+608,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+609,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+610,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+611,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+612,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+613,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+614,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good stay except for the breakfast arrangement.",7.0
+615,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+616,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good",7.0
+617,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+618,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+619,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Just the best",10
+620,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+621,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Nice hotel in center of Bangkok",9.0
+622,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+623,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+624,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+625,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+626,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good location,clean,comfortable,but service could be improved",9.0
+627,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+628,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+629,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Comfortable,clean,full of facility,nice pool",10
+630,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"とても良い",10
+631,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+632,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+633,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+634,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+635,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+636,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+637,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+638,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Tommy",10
+639,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+640,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"2021 Staycation",10
+641,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"It's good :)",8.0
+642,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Looking for a suite to stay?",10
+643,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+644,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+645,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+646,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+647,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Excellent",10
+648,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good",7.0
+649,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Super Unterstützung dirch Personal in sehr schönem familiengerechten Appartment",10
+650,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+651,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+652,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"We loved Oakwood Suites. Everything was very clean. A perfect stay!",10
+653,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+654,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+655,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+656,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+657,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+658,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+659,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+660,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+661,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+662,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+663,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+664,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+665,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+666,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"DANS L'ENSEMBLE PARFAIT",7.0
+667,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+668,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"excelente hotel",9.0
+669,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"comfortable,we will stay again",9.0
+670,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+671,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good",7.0
+672,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"満足",8.0
+673,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+674,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+675,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"ผิดหวังกับความสะอาดมาก",5.0
+676,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+677,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+678,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+679,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+680,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+681,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Convenient location big rooms just very limited breakfast",8.0
+682,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+683,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+684,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+685,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+686,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+687,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+688,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+689,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+690,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+691,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Pourquoi Booking.com est moins cher ?",10
+692,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very nice",10
+693,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Great hotel,spacious in every way (for Central Bangkok) and convenient location",9.0
+694,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+695,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Superb",9.0
+696,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+697,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Good",7.0
+698,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+699,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Very good",8.0
+700,"Bangkok","Oakwood Suites Bangkok - SHA Certified",9.1,"Exceptional",10
+701,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"พนักงานบริการดีมากค่ะ ทำเลดี",7.0
+702,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+703,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+704,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+705,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+706,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+707,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"ok for the price",7.0
+708,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+709,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Excellent and convenient stay",10
+710,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"อยู่ในทำเลที่ดี ใกล้ร้านอาหารและสถานีรถไฟฟ้า แต่ห้องพักเก่าไปนิดค่ะ",5.0
+711,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Amazing stay and close to shopping",10
+712,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"I’d Stay Here Again",8.0
+713,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+714,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+715,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+716,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Location wise and the staff,an amazing stay.",6.0
+717,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+718,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+719,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+720,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"ดีมาก คราวหลังจะมาพักอีก",9.0
+721,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Passable",5.0
+722,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+723,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+724,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+725,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+726,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+727,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Best location for the heart of Bangkok",8.0
+728,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+729,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+730,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good hotel at very good prices during this pandemic",8.0
+731,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+732,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Happy",10
+733,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+734,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"จะกลับมาพักอีก",9.0
+735,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+736,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+737,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+738,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Pleasant",6.0
+739,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+740,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+741,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+742,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+743,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+744,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"โนโวเทล",9.0
+745,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+746,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+747,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+748,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Konum aldatmasın",6.0
+749,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Perfect!!",10
+750,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+751,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+752,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+753,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+754,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+755,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Nice place to stay",10
+756,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+757,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"The staff really friendly good service",10
+758,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+759,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+760,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+761,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+762,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+763,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"満足です。",6.0
+764,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Passable",5.0
+765,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+766,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Hotel old fashion mais très bien situé",7.0
+767,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Séjour qd même agréable personnel accueillant et au service de la clientèle",6.0
+768,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+769,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"It was ok,but it could have been better.",7.0
+770,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.2
+771,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good rooms for price",8.0
+772,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+773,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+774,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+775,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+776,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+777,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+778,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+779,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+780,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Amazing experience,very big and clean rooms,superfriendly staff and very delicious breakfast",10
+781,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+782,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+783,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+784,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"เดินทางสะดวกมาก",9.0
+785,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+786,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Good",7.0
+787,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Reminded me of New York City,but friendlier,without attitude",9.0
+788,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+789,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+790,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+791,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Great location",8.0
+792,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"ตอนใช้บัตรเครดิตการันตี พนักงานแจ้งว่าบัตรไม่ผ่าน แต่จริงๆคือรูดผ่านไปแล้ว",7.0
+793,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+794,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+795,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"ผิดหวังเพราะคิดว่าจะดีเหมือนสาขาเมืองทอง",5.0
+796,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Superb",9.0
+797,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+798,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Exceptional",10
+799,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+800,"Bangkok","Novotel Bangkok on Siam Squar",8.3,"Very good",8.0
+801,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+802,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Super lux en toppie leuk.",10
+803,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Comfortable,joli et bien placé",9.0
+804,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+805,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+806,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Amazing Stay. With a Sauna and more equipped Spa would have been even more Amazing!",9.0
+807,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Лучший отель в котором я был!",10
+808,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Modern hotel with some issues to sort out",5.0
+809,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+810,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+811,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+812,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+813,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"ชอบมาก และถ้ามีโอกาสจะไปใช้บริการอีก",9.0
+814,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+815,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+816,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Hotel moderno,lindo,bem localizado,poderiam melhorar o café da manhã,mas tirando isso perfeito!",9.0
+817,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+818,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+819,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+820,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+821,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Business",8.0
+822,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+823,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+824,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Boring and scared.",6.0
+825,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+826,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+827,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Great hotel,good location  with great staff",10
+828,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Juste parfait",10
+829,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+830,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good hotel ❤️",10
+831,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+832,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+833,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+834,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Empty some places closed",5.0
+835,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+836,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+837,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+838,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Excellent stay!",10
+839,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+840,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Good",7.0
+841,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Good",7.0
+842,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Super gutes neues gepflegtes Hotel",10
+843,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Flawless",10
+844,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Quasi perfetto!",10
+845,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+846,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+847,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+848,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+849,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Pleasant",6.0
+850,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+851,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Would definitely stay again,many 5 star hotels are old and not as clean and new.",8.0
+852,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+853,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+854,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+855,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+856,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"I enjoyed my stay",10
+857,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Perfect 5 star",10
+858,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Nice Hotel and Staffs",9.0
+859,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+860,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Well located,beautiful room and friendly staff...",10
+861,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+862,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+863,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+864,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"I enjoyed staying at Carlton and it is a brand new,nice hotel. The room is spacious and clean.",9.0
+865,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"大満足でした",10
+866,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+867,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+868,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+869,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"I've stayed at the Carlton many times but for this time there are a few hiccups.",7.0
+870,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+871,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+872,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+873,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"すごく満足しています。",10
+874,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+875,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+876,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"нет розетки для фена в санузле или в прихожей перед зеркалом,это не удобно",9.0
+877,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+878,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"สุดยอดโร",10
+879,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+880,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+881,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+882,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"It certainly has a 5 star feel about it. Very nice.",9.0
+883,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+884,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+885,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+886,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+887,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+888,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+889,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+890,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+891,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+892,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Excellent hotel,great facilities and  great staff.",10
+893,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+894,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+895,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Very good",8.0
+896,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+897,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+898,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Amazing hotel",9.0
+899,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Superb",9.0
+900,"Bangkok","Carlton Hotel Bangkok Sukhumvi",9.3,"Exceptional",10
+901,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+902,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+903,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+904,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"ยอดเยี่ยม",10
+905,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"I was very impressed (top🏆)a dream that you will never forget",10
+906,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+907,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Excellent overall,would definitely return if a similar deal was available in the future",10
+908,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+909,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Passable",5.0
+910,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Einfach herrlich",9.0
+911,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+912,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+913,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+914,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+915,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+916,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Not for me",4.0
+917,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"La vue toujours unique sur Bkk le seul bémol c est que l on voit que les chambres sont vieilles et réaménagés à l économ",9.0
+918,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"ดีคะ",10
+919,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"整體還不錯",9.0
+920,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+921,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+922,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+923,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Good",7.0
+924,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Gutes Hotel mit mäßigem Frühstück (zur Zeit)",8.0
+925,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Best in Bangkok,I always look forward to returning here",10
+926,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+927,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+928,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Overall is good and like the comfortable room",10
+929,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Amazing",10
+930,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+931,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Must visit Hotel 👌",10
+932,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+933,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+934,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+935,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+936,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Perfect",10
+937,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+938,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+939,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+940,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+941,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Disappointing",4.0
+942,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+943,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"The hotel is perfect. I love all staff services and their attitude.",9.0
+944,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+945,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+946,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+947,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+948,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+949,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Poor",3.0
+950,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+951,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"ดี",8.0
+952,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional service and convenient options all over the Lebua",10
+953,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+954,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+955,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+956,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+957,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"目的に対しては大満足です。食事がとても高くついてしまったのですが気にしないことにします。",9.0
+958,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+959,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"อบรมพนักงาน",5.0
+960,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+961,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+962,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+963,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+964,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+965,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"วิวร้อยล้าน",8.0
+966,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Excellente surprise",10
+967,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"喜悅",9.0
+968,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+969,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Great staff service and nice view hotel",9.0
+970,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Friendly staff,the room was clean and wonderful place to stay. The best place to stay with and we would love to be back",10
+971,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+972,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+973,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Wie immer ausgezeichnetes Hotel mit super Service",9.0
+974,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+975,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+976,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Great Stay",9.0
+977,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+978,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+979,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+980,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Brilliant place to stay",10
+981,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Good",7.0
+982,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Wonderful location,great view and caring staff. We felt welcomed and enjoyed our staycation very much.",9.0
+983,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Worth the view",5.0
+984,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+985,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Good day",7.0
+986,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+987,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+988,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"素晴らしいホスピタリティ",10
+989,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"A pleasure as always",10
+990,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+991,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+992,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+993,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Heerlijk verblijf",9.0
+994,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"One of the best hotels in bangkok",9.0
+995,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Luxury rooms with great views but go elsewhere to eat and drink",9.0
+996,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Superb",9.0
+997,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Very good",8.0
+998,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+999,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Disappointing",4.0
+1000,"Bangkok","lebua at State Tower (The World’s First Vertical Destination)",8.8,"Exceptional",10
+1001,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1002,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1003,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1004,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1005,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1006,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Another first class stay",10
+1007,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Spa Aroma-Massage war super",10
+1008,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1009,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1010,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Erholsame Oase im hektischen Bangkok",10
+1011,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"A luxury experience with staff clearly contented in their work whose sincerity seemed genuine.",9.0
+1012,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"It will take a lot to beat this property",10
+1013,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1014,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1015,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1016,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1017,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Good experience",8.0
+1018,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1019,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Good",7.0
+1020,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Staff war einfach super!",8.0
+1021,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Room service needs improvement.",8.0
+1022,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1023,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"GOOD",7.0
+1024,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Wonderful hotel with even better staff",10
+1025,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1026,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1027,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1028,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1029,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"จะเข้าพักอีกครั้ง",10
+1030,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1031,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Cracking,had a wonderful stay",9.0
+1032,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Almost perfect Hotel. I recommend this hotel to all the people.",10
+1033,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1034,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1035,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1036,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1037,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1038,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1039,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1040,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"心地良かった。",9.0
+1041,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1042,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Wonderful stay indeed! I will definitely go back and have a staycation. :)",9.0
+1043,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1044,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"bella vacanza",10
+1045,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1046,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1047,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1048,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Excellent hotel",10
+1049,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1050,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Qualité et service au top",9.0
+1051,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1052,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1053,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1054,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Good",7.0
+1055,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"still a great place.",8.0
+1056,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Qualité et service au top",9.0
+1057,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1058,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1059,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1060,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1061,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Parfait",10
+1062,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1063,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1064,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1065,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Luxury city break.",10
+1066,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"The only place I will stay in Bangkok",10
+1067,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"2 nights",10
+1068,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1069,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1070,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Will be returning to Bangkok in the very near future and planning on staying at this hotel again.",10
+1071,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Wonderful service,great Jazz music at night (they take requests) and a beautiful pool!",9.0
+1072,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Good",7.0
+1073,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Had a great stay",10
+1074,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1075,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1076,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",9.6
+1077,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1078,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1079,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good all round",9.0
+1080,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Superb",9.0
+1081,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1082,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"さいこう",9.2
+1083,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1084,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Good",7.5
+1085,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1086,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1087,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1088,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1089,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1090,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Very good",8.0
+1091,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1092,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1093,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Relaxing and exactly as described",10
+1094,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1095,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1096,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",9.6
+1097,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1098,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"家族とリラックス出来た",9.0
+1099,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",9.6
+1100,"Bangkok","Sheraton Grande Sukhumvit,a Luxury Collection Hotel,Bangkok",9.2,"Exceptional",10
+1101,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1102,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1103,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Staycation",9.0
+1104,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1105,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1106,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Good",7.0
+1107,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1108,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1109,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Sunny-windy (ohmjom)",10
+1110,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1111,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ปลั๊กไฟใช้ไม่ได้ต้องใช้adapter ซึ่งไม่เพียงพอ จองที่พักไปสามคนแต่ได้ของใช้ผ้าขนหนูแค่2ชุด",5.4
+1112,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1113,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1114,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1115,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1116,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Passable",5.0
+1117,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1118,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1119,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1120,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1121,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1122,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Good",7.0
+1123,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1124,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1125,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"แนะนำให้เข้าพักค่ะ",10
+1126,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1127,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1128,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1129,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1130,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Pleasant",6.0
+1131,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1132,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1133,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1134,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1135,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Meilleur rapport qualité/prix dans le quartier pour les familles avec enfants pour un vrai 5 étoiles",10
+1136,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1137,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1138,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1139,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1140,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1141,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ชอบมากๆ",10
+1142,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Really enjoyed our staycation!",10
+1143,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1144,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1145,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1146,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1147,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"So good",10
+1148,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Relaxing",10
+1149,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1150,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1151,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1152,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"séjour formidable et service impeccable",7.0
+1153,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1154,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ดีค่ะห้องพักราคาไม่แรง 1,090 บาท ได้พักที่สะอาดกลางเมือง",7.0
+1155,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"EXCELLENT!",10
+1156,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1157,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1158,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1159,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Pleasant",6.0
+1160,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"General are good ..no one help us to carry the luggage",9.0
+1161,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1162,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1163,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Good",7.0
+1164,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ทำเลดีมาก",8.0
+1165,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1166,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1167,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ดีมากถึงมากที่",10
+1168,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Two thumbs up.",8.0
+1169,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"อาหารเช้าไลน์น้อยเกินไปจากที่เคยไปมา",7.0
+1170,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"ทำเลดี สะดวก คุ้มค่า",8.0
+1171,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1172,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1173,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"A la hauteur de mes attentes",10
+1174,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1175,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1176,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1177,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1178,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1179,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Good",7.0
+1180,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1181,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1182,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Perfect for what we wanted",9.0
+1183,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1184,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Passable",5.0
+1185,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1186,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1187,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"beautiful,reminiscing and excellent stay. so relaxing and calm,wants to be back again.",9.0
+1188,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1189,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Bonjour un séjour agréable vécu à cet établissement et le prolongement a été irrévocable ! Je recommande vivement",9.0
+1190,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1191,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1192,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1193,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1194,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1195,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1196,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1197,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Won't stay at Novotel again",3.0
+1198,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Very good",8.0
+1199,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Exceptional",10
+1200,"Bangkok","Novotel Bangkok Platinum Pratunam - SHA Certified",8.5,"Superb",9.0
+1201,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1202,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1203,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1204,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1205,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1206,"Bangkok","The Quarter Ari by UHG",8.9,"Pleasant",6.0
+1207,"Bangkok","The Quarter Ari by UHG",8.9,"Good for work trip",8.0
+1208,"Bangkok","The Quarter Ari by UHG",8.9,"十分不錯",9.0
+1209,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1210,"Bangkok","The Quarter Ari by UHG",8.9,"Fair stay,nothing overwhelming. Staff was correct,but all extremely un personally and cold related to the staff. The r",4.0
+1211,"Bangkok","The Quarter Ari by UHG",8.9,"Good value for money. Nice hotel",9.0
+1212,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1213,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1214,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1215,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1216,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1217,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1218,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1219,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1220,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1221,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1222,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1223,"Bangkok","The Quarter Ari by UHG",8.9,"Noisy AC",7.0
+1224,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1225,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1226,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1227,"Bangkok","The Quarter Ari by UHG",8.9,"Very poor",2.0
+1228,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1229,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1230,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1231,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1232,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1233,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1234,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1235,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1236,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1237,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1238,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1239,"Bangkok","The Quarter Ari by UHG",8.9,"ดีมากๆเกินคาด",10
+1240,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1241,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1242,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1243,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1244,"Bangkok","The Quarter Ari by UHG",8.9,"Less facilities in bathroom",8.0
+1245,"Bangkok","The Quarter Ari by UHG",8.9,"โดยรวมชอบ",10
+1246,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1247,"Bangkok","The Quarter Ari by UHG",8.9,"Actchara ห้อง 3204",10
+1248,"Bangkok","The Quarter Ari by UHG",8.9,"สะอาดครับ",10
+1249,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1250,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1251,"Bangkok","The Quarter Ari by UHG",8.9,"beim nächsten Trip suche ich was anders",6.0
+1252,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1253,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1254,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1255,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1256,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1257,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1258,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1259,"Bangkok","The Quarter Ari by UHG",8.9,"ถูกใจที่สุด",8.0
+1260,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1261,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1262,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1263,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1264,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1265,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1266,"Bangkok","The Quarter Ari by UHG",8.9,"Great new hotel,fantastic va!ue.",10
+1267,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1268,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1269,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1270,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1271,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1272,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1273,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1274,"Bangkok","The Quarter Ari by UHG",8.9,"ห้องพักแบบพรีเมี่ยมดีมาก  อุปกรณ์อำนวยความสะดวกครบครัน ทั้งเครื่องซักผ้า เตารีด ไมโครเวฟ เตาไฟฟ้า",10
+1275,"Bangkok","The Quarter Ari by UHG",8.9,"Good",8.0
+1276,"Bangkok","The Quarter Ari by UHG",8.9,"Good",8.0
+1277,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1278,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1279,"Bangkok","The Quarter Ari by UHG",8.9,"พอใจและคุ้มค่ามาก",10
+1280,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1281,"Bangkok","The Quarter Ari by UHG",8.9,"顧客満足度の追求に余念がない様子に感銘を受けた",10
+1282,"Bangkok","The Quarter Ari by UHG",8.9,"顧客満足度を徹底追求する姿勢に感服",10
+1283,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1284,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1285,"Bangkok","The Quarter Ari by UHG",8.9,"Passable",5.0
+1286,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1287,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1288,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1289,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1290,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1291,"Bangkok","The Quarter Ari by UHG",8.9,"All good",10
+1292,"Bangkok","The Quarter Ari by UHG",8.9,"Clean room,near convenient store",10
+1293,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1294,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1295,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1296,"Bangkok","The Quarter Ari by UHG",8.9,"Superb",9.0
+1297,"Bangkok","The Quarter Ari by UHG",8.9,"Very good",8.0
+1298,"Bangkok","The Quarter Ari by UHG",8.9,"Exceptional",10
+1299,"Bangkok","The Quarter Ari by UHG",8.9,"Very satisfied as in the past",9.0
+1300,"Bangkok","The Quarter Ari by UHG",8.9,"Good",7.0
+1301,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1302,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1303,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1304,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1305,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1306,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1307,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"さすがマリオット。",8.0
+1308,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1309,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1310,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1311,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1312,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"โรงแรมดี ในทำเลที่ดี",10
+1313,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1314,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Новый год",8.0
+1315,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1316,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1317,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Great place very good location good staff very high facilities",10
+1318,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Poor",3.0
+1319,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Amazing!",10
+1320,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1321,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1322,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1323,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1324,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1325,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1326,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1327,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Great Hotel",9.0
+1328,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1329,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1330,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1331,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1332,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1333,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1334,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"great breakfast,and good facilities.",10
+1335,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1336,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1337,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1338,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1339,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1340,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1341,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1342,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Telephone and television have not available for use.",10
+1343,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1344,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1345,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1346,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1347,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Лучший отель!",10
+1348,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1349,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1350,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",10
+1351,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1352,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1353,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1354,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1355,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1356,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1357,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1358,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Pleasant",9.0
+1359,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1360,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1361,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1362,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"ちょっと残念でした",7.0
+1363,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1364,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1365,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1366,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1367,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1368,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1369,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1370,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1371,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1372,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"top service",9.0
+1373,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1374,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1375,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"เหมาะสมและดีเยี่ยม ในทุก ๆ ด้าน",8.0
+1376,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1377,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1378,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1379,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1380,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Disappointing",4.0
+1381,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1382,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1383,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1384,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Average for being in Bangook. A jotel for mass-accomondation",7.0
+1385,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Best hotel",10
+1386,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1387,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Okay",5.8
+1388,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1389,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1390,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1391,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Very good",8.0
+1392,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1393,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"良かった！",7.0
+1394,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"All good",10
+1395,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Exceptional",10
+1396,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good",7.0
+1397,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Good for an overnight stay,but check before booking if restaurants,bars and pools are open or not",7.0
+1398,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1399,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Superb",9.0
+1400,"Bangkok","Bangkok Marriott Marquis Queen’s Park",8.7,"Memorable experience",9.0
+1401,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1402,"Bangkok","Evergreen Place Siam by UHG",8.4,"good value and location",9.0
+1403,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1404,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1405,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1406,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1407,"Bangkok","Evergreen Place Siam by UHG",8.4,"พนักงานทำความสะอาดดีมาก🎊🎉🎊👏🏻👏🏻👏🏻",10
+1408,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1409,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1410,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1411,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1412,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1413,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1414,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1415,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1416,"Bangkok","Evergreen Place Siam by UHG",8.4,"ลิฟช้า รถติด",6.0
+1417,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1418,"Bangkok","Evergreen Place Siam by UHG",8.4,"ราคาประหยัด ทำเลดีใจกลางเมือง ห้องพักกว้างสะอาด อาหารอร่อย มีที่จอดรถ",10
+1419,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1420,"Bangkok","Evergreen Place Siam by UHG",8.4,"ห้องขนาดใหญ่ พร้อมเครื่องครัวและอุปกรณ์ทำอาหาร ดีกว่าที่คิดไว้เยอะ",9.0
+1421,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1422,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1423,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1424,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1425,"Bangkok","Evergreen Place Siam by UHG",8.4,"Pleasant",6.0
+1426,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1427,"Bangkok","Evergreen Place Siam by UHG",8.4,"Très bon séjour dans cet hôtel",8.0
+1428,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1429,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1430,"Bangkok","Evergreen Place Siam by UHG",8.4,"Happy costumers",10
+1431,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1432,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1433,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1434,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1435,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1436,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1437,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1438,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1439,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1440,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1441,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1442,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1443,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1444,"Bangkok","Evergreen Place Siam by UHG",8.4,"Such a good stay that it will be from now on my destinatoon in BKK.",9.0
+1445,"Bangkok","Evergreen Place Siam by UHG",8.4,"Close to BTS/ARL,boat,near everything and not to expensive for the standing.",7.0
+1446,"Bangkok","Evergreen Place Siam by UHG",8.4,"Passable",5.0
+1447,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1448,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1449,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1450,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1451,"Bangkok","Evergreen Place Siam by UHG",8.4,"Schönes Hotel mit sehr freundlichem Personal",8.0
+1452,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1453,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1454,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1455,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1456,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1457,"Bangkok","Evergreen Place Siam by UHG",8.4,"พอสบายกายใจ",6.0
+1458,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1459,"Bangkok","Evergreen Place Siam by UHG",8.4,"Passable",5.0
+1460,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1461,"Bangkok","Evergreen Place Siam by UHG",8.4,"Wonderful staycation.",9.0
+1462,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1463,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1464,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1465,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1466,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1467,"Bangkok","Evergreen Place Siam by UHG",8.4,"Pleasant",6.0
+1468,"Bangkok","Evergreen Place Siam by UHG",8.4,"ที่พักสะดวกสบาย ใกล้มาบุญครอง",9.0
+1469,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1470,"Bangkok","Evergreen Place Siam by UHG",8.4,"Air conditioner problem the whole building,Internet is not be able to use.",2.0
+1471,"Bangkok","Evergreen Place Siam by UHG",8.4,"valuable to stay! clean and comfortable",10
+1472,"Bangkok","Evergreen Place Siam by UHG",8.4,"ประทับใจและต้องมาอีก",10
+1473,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1474,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1475,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1476,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1477,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1478,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1479,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1480,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1481,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1482,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1483,"Bangkok","Evergreen Place Siam by UHG",8.4,"Good",7.0
+1484,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1485,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1486,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1487,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1488,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1489,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1490,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1491,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1492,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1493,"Bangkok","Evergreen Place Siam by UHG",8.4,"Specious.",10
+1494,"Bangkok","Evergreen Place Siam by UHG",8.4,"สะดวกสบายดีมาก",9.0
+1495,"Bangkok","Evergreen Place Siam by UHG",8.4,"Exceptional",10
+1496,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1497,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1498,"Bangkok","Evergreen Place Siam by UHG",8.4,"Very good",8.0
+1499,"Bangkok","Evergreen Place Siam by UHG",8.4,"Superb",9.0
+1500,"Bangkok","Evergreen Place Siam by UHG",8.4,"ดีครับสะดวก",9.0
+1501,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"A very relaxing experience",9.0
+1502,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"ห้องพักวิวสวยมาก",8.0
+1503,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1504,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1505,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1506,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Passable",5.0
+1507,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1508,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Great view",8.0
+1509,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1510,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"ดีมากๆ เหมาะสำหรับมาพักแบบครอบครัวที่มีผู้ใหญ่และเด็กๆด้วย",8.0
+1511,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1512,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"The best hotel so far. Love it.",10
+1513,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Excellent",10
+1514,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1515,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1516,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1517,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1518,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1519,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1520,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1521,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Bangkok - wieder einmal ein schöner Aufenthalt",9.0
+1522,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1523,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1524,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1525,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1526,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1527,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1528,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"วิวสวย ห้องดี น่ามาพักผ่อน",8.0
+1529,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"โดยรวมประทับใจมากๆค่ะ",10
+1530,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1531,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1532,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1533,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1534,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1535,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1536,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1537,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Nice Enough",8.0
+1538,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good",7.0
+1539,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1540,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1541,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1542,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1543,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good",7.0
+1544,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1545,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1546,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1547,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1548,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1549,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1550,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1551,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Bangkok staycation",8.0
+1552,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1553,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Nice room,Great view,Best staffs",10
+1554,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1555,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1556,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good",7.0
+1557,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1558,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good",7.0
+1559,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"อาหารเช้าอร่อยเหมือนทุกครั้งที่มาพัก",10
+1560,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1561,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1562,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1563,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1564,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"不错的选择",7.0
+1565,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good",7.0
+1566,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Happy",10
+1567,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1568,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1569,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"全体的にレベルが高い",9.0
+1570,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good support &amp; kindness",9.0
+1571,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Value packed",9.0
+1572,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1573,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Good view and cozy",10
+1574,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1575,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1576,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Wonderful Stay by Chaopraya River",9.0
+1577,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1578,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1579,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Down by the river",10
+1580,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1581,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1582,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Room for river view is very nice ! And comfortable !",9.0
+1583,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Perfection",10
+1584,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Соотношение цены и качества сервиса",10
+1585,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"สบาย สะดวก สนุก",9.0
+1586,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1587,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Very good",8.0
+1588,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"all fine but next time we will call to have clarity of the room",8.0
+1589,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Truly,a 5 Star experience.",8.0
+1590,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"ok",8.0
+1591,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Great stay...",9.0
+1592,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1593,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"เป็นการพักผ่อนที่ยอดเยี่ยมและประทับใจมาก",9.0
+1594,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Great stay and will be back in the future!!",9.0
+1595,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1596,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Confortable!",8.0
+1597,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1598,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Superb",9.0
+1599,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1600,"Bangkok","Chatrium Hotel Riverside Bangkok",9.1,"Exceptional",10
+1601,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1602,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1603,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Bad",1.0
+1604,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1605,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1606,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1607,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Passable",5.0
+1608,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Asoke Residence Hotel Wonderful",9.0
+1609,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1610,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1611,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1612,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1613,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Pleasant",6.0
+1614,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1615,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1616,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1617,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1618,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1619,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"I will return.",9.0
+1620,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1621,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1622,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Value for money and kind staffs.",7.0
+1623,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Nice stay,Right at the heart of Asoke! Clean &amp; Comfy room,but good luck with the parking!",9.0
+1624,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1625,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Great Location. Excellent comfortable hotel.",10
+1626,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1627,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1628,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1629,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1630,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1631,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1632,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1633,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Passable",5.0
+1634,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1635,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1636,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very nice,clean,modern hotel.",10
+1637,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1638,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1639,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Passable",5.0
+1640,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1641,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1642,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1643,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1644,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"ตรงตามวัตถุประสงค์ แต่ที่จอดรถกับคำอธิบายของพนักงานทำให้รู้สึกไม่ค่อยดีเท่าที่ควร",7.0
+1645,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1646,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1647,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1648,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"my mistake that I booked this hotel.",1.0
+1649,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1650,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.9
+1651,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Bad",1.0
+1652,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1653,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1654,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1655,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1656,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1657,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1658,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1659,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"บริการดี",7.0
+1660,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Good",7.0
+1661,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1662,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"היה נחמד",10
+1663,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1664,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Disappointing",4.0
+1665,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"โรงแรงโลเคชั่นดีมากๆ การดูแลเรื่องความสะอาดดีมาก การบริการจากพนักงานก็ดีเกินคาด",9.0
+1666,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1667,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1668,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1669,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Pleasant",6.0
+1670,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"KK",7.0
+1671,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1672,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1673,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1674,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1675,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1676,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Pleasant",6.0
+1677,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"สะดวก บริการดีใกล้แหล่งธุ",8.0
+1678,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1679,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1680,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1681,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"I just started booking here,and enjoy it so much i keep coming back to stay when i am in bkk",9.0
+1682,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1683,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"มาพักที่นี่กันนะคะ",10
+1684,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1685,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1686,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1687,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1688,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1689,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Perfect location",8.0
+1690,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Bad",1.0
+1691,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Very good",8.0
+1692,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Comfy,close to amenities.",7.0
+1693,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"เหมาะสมกับราคา",8.0
+1694,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1695,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1696,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Pleasant",6.0
+1697,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Superb",9.0
+1698,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1699,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1700,"Bangkok","Asoke Residence Sukhumvit by UHG",8.4,"Exceptional",10
+1701,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good",7.0
+1702,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1703,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Great",9.0
+1704,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1705,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Helpful staff",9.0
+1706,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1707,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good",7.0
+1708,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1709,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1710,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1711,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1712,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good",7.0
+1713,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1714,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1715,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1716,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1717,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good location",8.0
+1718,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Pleasant",6.0
+1719,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1720,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1721,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"ห้องใหญ่ ราคาไม่แพง",8.0
+1722,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"ทำเลดี ราคาดี ห้องพักดี",8.0
+1723,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1724,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1725,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1726,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1727,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1728,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1729,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Please watch the language when saying somthing among the team but customer might hear",9.0
+1730,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1731,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1732,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1733,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Highly recommend and best price for full option hotel!",10
+1734,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1735,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Excellent rapport qualité prix et personnel très souriant et serviable",8.0
+1736,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1737,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1738,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1739,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1740,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1741,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"มีอุปกรณ์แปรงสีฟัน ยาสีฟันและเตาไมโคเวฟ",7.0
+1742,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1743,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Third time here",10
+1744,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Happy to extend more nights...wonderful😀",9.0
+1745,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"I would suggest this property to everyone...perfectly!!!",10
+1746,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1747,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"ที่พักดี บริการดี ได้พักผ่อนอย่างเต็มที่ คราวหน้าจะมาอีกค่ะ",9.0
+1748,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Pleasant",6.0
+1749,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Het was goed maar kan wel een opfris beurt hebben.",8.0
+1750,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1751,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"It’s a total scam",1.0
+1752,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1753,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1754,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1755,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1756,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Preis-Leistungsverhaeltnis in Anbetracht der guten Lage außergewöhnlich gut! Jederzeit wieder!",9.0
+1757,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1758,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1759,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1760,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1761,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1762,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Passable",5.0
+1763,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1764,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Es war ein sehr angenehmer Aufenthalt für eine Nacht und wir kommen bestimmt wieder",8.0
+1765,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1766,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1767,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1768,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1769,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"wir werden wieder kommen",8.0
+1770,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1771,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1772,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good location",9.0
+1773,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1774,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1775,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1776,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1777,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1778,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1779,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1780,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good",7.0
+1781,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1782,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1783,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1784,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1785,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1786,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1787,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1788,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1789,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1790,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1791,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1792,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1793,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1794,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Very good",8.0
+1795,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1796,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Exceptional",10
+1797,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Poor",3.0
+1798,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"安心の滞在",8.0
+1799,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Superb",9.0
+1800,"Bangkok","Siri Sathorn Bangkok by UHG",8.5,"Good",7.0
+1801,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1802,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1803,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1804,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1805,"Bangkok","Centara Grand At Centralworld",8.7,"Good",7.0
+1806,"Bangkok","Centara Grand At Centralworld",8.7,"Disappointing",4.0
+1807,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1808,"Bangkok","Centara Grand At Centralworld",8.7,"Brilliant hotel highly recommended!",10
+1809,"Bangkok","Centara Grand At Centralworld",8.7,"Less crowded and friendly staff",10
+1810,"Bangkok","Centara Grand At Centralworld",8.7,"ควรมีรถรับส่งไปยัง BTS สยามครับ",10
+1811,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1812,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1813,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1814,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1815,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1816,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1817,"Bangkok","Centara Grand At Centralworld",8.7,"Très bel hôtel",9.0
+1818,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1819,"Bangkok","Centara Grand At Centralworld",8.7,"ประทับใจ",9.0
+1820,"Bangkok","Centara Grand At Centralworld",8.7,"房間很舒服 很乾淨 我的孩子們很喜歡",8.0
+1821,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1822,"Bangkok","Centara Grand At Centralworld",8.7,"อยากให้แจ้งวิธีการใช้บัตร เข้าพัก เคยเข้าพักในเครือที่แกรนด์มิมาจ มันจะมีเสียงแล้วกด แต่ที่นี้ไม่มีเสียงคร่าา",10
+1823,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1824,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1825,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1826,"Bangkok","Centara Grand At Centralworld",8.7,"Passable",5.0
+1827,"Bangkok","Centara Grand At Centralworld",8.7,"Good",7.0
+1828,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1829,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1830,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1831,"Bangkok","Centara Grand At Centralworld",8.7,"رائع",10
+1832,"Bangkok","Centara Grand At Centralworld",8.7,"โดยรวมชอบนะคะ",8.0
+1833,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1834,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1835,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1836,"Bangkok","Centara Grand At Centralworld",8.7,"สวัสดีปีใหม่ 2021",9.0
+1837,"Bangkok","Centara Grand At Centralworld",8.7,"Great Location",9.0
+1838,"Bangkok","Centara Grand At Centralworld",8.7,"Good",7.0
+1839,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1840,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1841,"Bangkok","Centara Grand At Centralworld",8.7,"Fantastic location,great family room and facilities. Breakfast was great.",9.0
+1842,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1843,"Bangkok","Centara Grand At Centralworld",8.7,"Amazing",10
+1844,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1845,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1846,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1847,"Bangkok","Centara Grand At Centralworld",8.7,"Wonderful experience",9.0
+1848,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1849,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1850,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1851,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1852,"Bangkok","Centara Grand At Centralworld",8.7,"For my love.",10
+1853,"Bangkok","Centara Grand At Centralworld",8.7,"Sleep disruption due to maintenance in early hours",7.0
+1854,"Bangkok","Centara Grand At Centralworld",8.7,"Отличный отель",10
+1855,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1856,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1857,"Bangkok","Centara Grand At Centralworld",8.7,"มีครั้งแรกก็ต้องมีครั้งต่อๆไป",10
+1858,"Bangkok","Centara Grand At Centralworld",8.7,"Fabulous",8.8
+1859,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1860,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1861,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1862,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1863,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1864,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1865,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1866,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1867,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1868,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1869,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1870,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1871,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1872,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1873,"Bangkok","Centara Grand At Centralworld",8.7,"ห้องอาหารเช้า. ที่นั่งไม่พอ",8.0
+1874,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1875,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1876,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1877,"Bangkok","Centara Grand At Centralworld",8.7,"Good",9.0
+1878,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1879,"Bangkok","Centara Grand At Centralworld",8.7,"Good",7.0
+1880,"Bangkok","Centara Grand At Centralworld",8.7,"При выезде из отеля на карту не вернули депозит",5.0
+1881,"Bangkok","Centara Grand At Centralworld",8.7,"เป็นวันพักผ่อนเยี่ยมมาก ในสถานที่สวย หรู และการต้อนรับที่แสนประทับใจ",9.0
+1882,"Bangkok","Centara Grand At Centralworld",8.7,"it's okay",7.0
+1883,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1884,"Bangkok","Centara Grand At Centralworld",8.7,"สะดวกดีค่ะ",10
+1885,"Bangkok","Centara Grand At Centralworld",8.7,"Good",10
+1886,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1887,"Bangkok","Centara Grand At Centralworld",8.7,"Passable",5.0
+1888,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1889,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1890,"Bangkok","Centara Grand At Centralworld",8.7,"great location and rooms have a nice view",7.0
+1891,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1892,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1893,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1894,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1895,"Bangkok","Centara Grand At Centralworld",8.7,"Superb",9.0
+1896,"Bangkok","Centara Grand At Centralworld",8.7,"Ottimo",10
+1897,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1898,"Bangkok","Centara Grand At Centralworld",8.7,"Exceptional",10
+1899,"Bangkok","Centara Grand At Centralworld",8.7,"Very good",8.0
+1900,"Bangkok","Centara Grand At Centralworld",8.7,"คุ้มค่ากับราคา  โรงแรมสวย พนักงานดี  ทำเลสะดวกสบาย",10
+1901,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1902,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Nice comfortable and well located!",8.0
+1903,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1904,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1905,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1906,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1907,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1908,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1909,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"The room was clean and nicely decorated. The location is superb if you have a car. (If you don’t,you might need a Taxi",9.0
+1910,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1911,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1912,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1913,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1914,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"ห้องกว้างดีค่ะ",7.5
+1915,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Second visit and second disappointment",4.0
+1916,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1917,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1918,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Pleasant",6.0
+1919,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1920,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Bad",1.0
+1921,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"โดยรวมแล้วค่อนข้างประทับใจ และถ้ามีโอกาสจะมาใช้บริการอีก",8.0
+1922,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1923,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1924,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1925,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Хорошо за эти деньги",9.0
+1926,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1927,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1928,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1929,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1930,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Decent well-located furnished apartment offering good deals",6.0
+1931,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1932,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"An average stay",5.0
+1933,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good property but limited parking lot.",8.0
+1934,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1935,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Pleasant",6.0
+1936,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Pleasant",6.0
+1937,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1938,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Passable",5.0
+1939,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1940,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Pleasant",6.0
+1941,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1942,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1943,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Lovely pool with a good location",8.0
+1944,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Passable",5.0
+1945,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1946,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1947,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Passable",5.0
+1948,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1949,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"A great place to stay",10
+1950,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Dirty air conditioning. Very dusty. Water pump for shower was low. Technician wasn’t being helpful on this at all.",7.0
+1951,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1952,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1953,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1954,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1955,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1956,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1957,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"พื้นห้องที่พักเริ่มสึกหรอแล้วนะคะ ห้อง604 ผ้าขนหนูเก่าไปหน่อยค่ะ แต่โดยรวมโอเคมากๆ",7.0
+1958,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1959,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Natty",8.0
+1960,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1961,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1962,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"โรงแรมดีมาก ราคาไม่แพง",10
+1963,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"The curtain was to bight for sleeping room 711",10
+1964,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1965,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1966,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1967,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1968,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1969,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1970,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1971,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1972,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1973,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1974,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1975,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1976,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1977,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Comfortable but not very well designed.",6.0
+1978,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"เกินความคาดหมาย ราคาดีในทองหล่อ",9.0
+1979,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1980,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1981,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1982,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1983,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1984,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1985,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.2
+1986,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1987,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1988,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1989,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Neera",9.0
+1990,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1991,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1992,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1993,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1994,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Good",7.0
+1995,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0
+1996,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+1997,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Pm",9.0
+1998,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Exceptional",10
+1999,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Very good",8.0
+2000,"Bangkok","Aparthotel The Residence on Thonglor by UHG",8.5,"Superb",9.0

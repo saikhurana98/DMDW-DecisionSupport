@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <!-- Jquery -->
+        <script type = 'text/javascript' src = 'https://code.jquery.com/jquery-3.3.1.js'></script>
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+			integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+		<!-- Mapbox CDN -->
+		<script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+		<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
+		<!-- Custom CSS -->
+		<link rel="stylesheet" type ="text/css" href="css/styles.css">
+		<title>Mapbox</title>
+		<script type="text/javascript" src="./js/data.js"></script>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#">Data Mining</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbar">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link cities" id="nav-singapore" href="#">Singapore</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link cities" id="nav-klumpur" href="#">Kuala Lumpur</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link cities" id="nav-bangkok" href="#">Bangkok</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<div class="d-flex justify-content-center">
+			<div id="map" class="p-2 bd-highlight mt-4" style="width: 1280px; height: 720px"></div>
+			<div class="p-2 bd-highlight">
+				<!-- Radio Buttons -->
+				<div>
+					<p class="h4"> Select the Scoring Mechanism</p>
+					<div class="form-check">
+						<input id="rating-check" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"checked>
+						<label class="form-check-label" for="flexRadioDefault1">
+						eTravel Website Rating
+						</label>
+					</div>
+					<div class="form-check">
+						<input id="polarity-check" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+						<label class="form-check-label" for="flexRadioDefault2">
+						Polarity Score
+						</label>
+					</div>
+				</div>
+				<!-- Padding -->
+				<div class="mt-4">
+					<p class="h5"> Top 10 Hotels:</p>
+					<div class="list-group" id="hotel-list">
+						<!-- <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+							<div class="d-flex w-100 justify-content-between">
+								<h5 class="mb-1">List group item heading</h5>
+							</div>
+							<small>Donec id elit non mi porta.</small>
+						</a>
+						<a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+							<div class="d-flex w-100 justify-content-between">
+								<h5 class="mb-1">List group item heading</h5>
+							</div>
+							<small class="text-muted">Donec id elit non mi porta.</small>
+						</a>
+						<a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+							<div class="d-flex w-100 justify-content-between">
+								<h5 class="mb-1">List group item heading</h5>
+							</div>
+							<small class="text-muted">Donec id elit non mi porta.</small>
+						</a> -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+			crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+			integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+			crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+			integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+			crossorigin="anonymous"></script>
+		<!-- App.js -->
+		<script type="text/javascript" src="./js/index.js"></script>
+	</body>
+</html>
