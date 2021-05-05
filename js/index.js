@@ -195,13 +195,16 @@ const addMapSource = (hotelList) => {
     }
 
 }
+const titleHeading = document.getElementById("list-heading")
 
 singaporeId.addEventListener("click", async () => {
     selected_city_code = "singapore"
     flyToCity(selected_city_code);
     if (ratingCheck.checked) {
+        titleHeading.innerText = "Top 10 Hotels in Singapore: (bassed on eCommerce Website Rating)";  
         await updateHotelList("singapore", singapore.ratings)
     } else {
+        titleHeading.innerText = "Top 10 Hotels in Singapore: (bassed on Polarity Score)";  
         await updateHotelList("singapore", singapore.polarity)
     }
     addHotelListClickListeners();
@@ -211,8 +214,10 @@ klumpurId.addEventListener("click", async () => {
     selected_city_code = "klumpur"
     flyToCity(selected_city_code)
     if (ratingCheck.checked) {
+        titleHeading.innerText = "Top 10 Hotels in Kuala Lumpur: (bassed on eCommerce Website Rating)";  
         await updateHotelList("klumpur", klumpur.ratings)
     } else {
+        titleHeading.innerText = "Top 10 Hotels in Kuala Lumpur: (bassed on Polarity Score)";  
         await updateHotelList("klumpur", klumpur.polarity)
     }
     addHotelListClickListeners();
@@ -222,8 +227,10 @@ bangkokId.addEventListener("click", async () => {
     selected_city_code = "bangkok"
     flyToCity(selected_city_code)
     if (ratingCheck.checked) {
+        titleHeading.innerText = "Top 10 Hotels in Bangkok: (bassed on eCommerce Website Rating)";  
         await updateHotelList("bangkok", bangkok.ratings)
     } else {
+        titleHeading.innerText = "Top 10 Hotels in Bangkok: (bassed on Polarity Score)";  
         await updateHotelList("bangkok", bangkok.polarity)
     }
     addHotelListClickListeners();
