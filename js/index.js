@@ -1,13 +1,9 @@
-// let a = [13.728609480579797, 100.50940824947058]
-let a = [101.71178307827523, 3.1561168489828964]
-
-
 // Initialising Map
 mapboxgl.accessToken = "pk.eyJ1Ijoic2Fpa2h1cmFuYSIsImEiOiJja28zZWwwY3QwMTJ3MnhteThjbG5sYjgyIn0.i85hqRoHATrcR6mv8_SAgw";
 let map = new mapboxgl.Map({
     container: "map",
     style: "mapbox://styles/mapbox/streets-v11",
-    center: a,
+    center: [103.8231710722673,1.3044487772620454],
     zoom: 7.5
 });
 
@@ -93,7 +89,7 @@ const updateHotelList = (city_name, hotel_array) => {
                     <div data-hotel="${i}" data-lang="${hotel_array[i].coordinates[0]}" data-lit="${hotel_array[i].coordinates[1]}" data-location="${city_name}" class="d-flex w-100 justify-content-between">
                         <h5 data-hotel="${i}" data-lang="${hotel_array[i].coordinates[0]}" data-lit="${hotel_array[i].coordinates[1]}" data-location="${city_name}" class="mb-1">${hotel_array[i].hotel_name}</h5>
                     </div>
-                    <small data-hotel="${i}" data-lang="${hotel_array[i].coordinates[0]}" data-lit="${hotel_array[i].coordinates[1]}" data-location="${city_name}" class="text-muted"> Rating: ${hotel_array[i].hotel_rating} &emsp; Polarity: ${hotel_array[i].scaled_polarity.toFixed(2)} </small>
+                    <small data-hotel="${i}" data-lang="${hotel_array[i].coordinates[0]}" data-lit="${hotel_array[i].coordinates[1]}" data-location="${city_name}" class=""> Rating: ${hotel_array[i].hotel_rating}/10 &emsp; Polarity: ${hotel_array[i].scaled_polarity.toFixed(2)}/10 </small>
                 </a>`;
             }
             resolve()
